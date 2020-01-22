@@ -110,12 +110,24 @@ INSERT INTO sales (bill_id, product_id, cantidad) VALUES ('108', '1', '1');
 INSERT INTO sales (bill_id, product_id, cantidad) VALUES ('108', '4', '1');
 INSERT INTO sales (bill_id, product_id, cantidad) VALUES ('108', '6', '1');
 
-INSERT INTO bills (client_rut, bill_id, fecha, subtotal, total) VALUES ('26852106-5', '108', '2020-09-28', '1250', '1250');
+INSERT INTO bills (client_rut, bill_id, fecha, subtotal, total) VALUES ('26852106-5', '108', '2020-01-15', '1250', '1250');
 
 INSERT INTO sales (bill_id, product_id, cantidad) VALUES ('109', '1', '1');
 INSERT INTO sales (bill_id, product_id, cantidad) VALUES ('109', '4', '1');
 INSERT INTO sales (bill_id, product_id, cantidad) VALUES ('109', '6', '1');
 INSERT INTO sales (bill_id, product_id, cantidad) VALUES ('109', '3', '1');
+
+INSERT INTO bills (client_rut, bill_id, fecha, subtotal, total) VALUES ('26852106-5', '109', '2020-04-22', '1550', '1550');
+
+INSERT INTO sales (bill_id, product_id, cantidad) VALUES ('110', '7', '1');
+
+INSERT INTO bills (client_rut, bill_id, fecha, subtotal, total) VALUES ('26852106-5', '110', '2020-04-22', '10500', '10500');
+
+
+
+
+
+
 
 
 
